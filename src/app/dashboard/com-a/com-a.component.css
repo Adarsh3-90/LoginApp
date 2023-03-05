@@ -1,0 +1,12 @@
+
+h1{
+    float:right;
+}
+img{
+   /* height:300px;
+   width:300px;
+  float:right; */
+  /* width:calc(100%-250px);
+  float:right; */
+  width:100%;
+}

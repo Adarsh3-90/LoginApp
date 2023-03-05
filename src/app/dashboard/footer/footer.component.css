@@ -1,0 +1,22 @@
+
+
+
+footer{
+    height:100px;
+    position: fixed;
+   
+    background-color:darksalmon;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    color:white;
+    text-align: center;
+
+    /* width : calc(100% - 250px); 
+    float : left; 
+    */
+}
+footer a{
+    color:green
+}
